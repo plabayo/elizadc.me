@@ -67,7 +67,6 @@ header h5 {
 }
 
 #wrapper {
-    width: 650px;
     display: grid;
     grid-template-rows: auto;
 }
@@ -88,9 +87,11 @@ a.btn {
     cursor: pointer;
 }
 
+#wrapper {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 10px;
+}
+
 @media screen and (max-width: 650px) {
-    #wrapper {
-        max-width: 100%;
-        margin: 0 10px;
-    }
 }
