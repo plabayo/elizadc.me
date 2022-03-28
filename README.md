@@ -1,8 +1,8 @@
 # Personal Website of Elizabeth
 
-The source code of the Plabayo website.
+The source code of the personal website of Elizabeth.
 
-https://www.elizadc.md
+https://www.elizadc.me
 
 ## Build Locally
 
