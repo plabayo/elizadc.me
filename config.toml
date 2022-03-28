@@ -2,8 +2,8 @@
 base_url = "https://elizadc.me"
 
 # The site title and description; used in feeds by default.
-title = "Elizabeth De Cauwsemaecker"
-description = "Personal website of Elizabeth De Cauwsemaecker"
+title = "Elizabeth Gonzales Belsuzarri"
+description = "Personal website of Elizabeth Gonzales Belsuzarri"
 license = "Creative Commons Zero v1.0 Universal"
 homepage = "https://elizadc.me"
 min_version = "0.15.3"
