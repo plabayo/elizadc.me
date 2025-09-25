@@ -1,0 +1,64 @@
+mark {
+    background: #d8eda0;
+    color: #3f9f1c;
+}
+fieldset {
+    border-color: #c7db84;
+}
+html {
+    color: #3f9f1c;
+    background-color: #f7fce9;
+}
+a,
+a:visited {
+    color: #488fdb;
+}
+h1 {
+    color: #f988d7;
+}
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #ea53bc;
+}
+
+@media (prefers-color-scheme: dark) {
+    mark {
+        background: #aed581;
+        color: #101507;
+    }
+    fieldset {
+        border-color: #8bc34a;
+    }
+    html {
+        color: #f1f7e4;
+        background-color: #3c551d;
+    }
+    body {
+        border-color: #8bc34a;
+    }
+    code {
+        background-color: #2b3b23;
+    }
+    a {
+        color: #dce775;
+    }
+    a:visited {
+        color: #cddc39;
+    }
+    a:hover {
+        color: #e6ee9c;
+    }
+    h1 {
+        color: #e4f1ac;
+    }
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        color: #cddc39;
+    }
+}
